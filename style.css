@@ -88,7 +88,7 @@ a:hover{
 	width: 100%;
 }*/
 
-.one-third-block img{
+img {
 	width: 100%;
 }
 
@@ -126,4 +126,16 @@ iframe{
 
 .block-padding{
 	padding: 40px;
+}
+
+.square-img{
+	aspect-ratio: 1/1;
+}
+
+.fourth-block a{
+	text-decoration: underline;
+}
+
+.fourth-block img{
+	aspect-ratio: 1/1;
 }
