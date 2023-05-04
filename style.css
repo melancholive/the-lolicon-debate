@@ -139,3 +139,7 @@ iframe{
 .fourth-block img{
 	aspect-ratio: 1/1;
 }
+
+.underline-exception{
+	text-decoration: none;
+}
